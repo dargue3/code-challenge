@@ -20,10 +20,10 @@ At Apple I've made an internal library that exports a bunch of UI building block
 Make sure you have `node` installed on your machine.
 
 ```
-npm i; npm run build; npm run server
+npm i; npm run start
 ```
 
-Visit the app at http://localhost:8000.
+Visit the app at http://localhost:3000.
 
 ## Testing
 
